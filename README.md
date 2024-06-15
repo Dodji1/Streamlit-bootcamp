@@ -3,12 +3,12 @@
 Bienvenue dans ce bootcamp de formation Streamlit! Ce programme est conçu pour vous initier à Streamlit, une bibliothèque Python permettant de créer des applications web interactives pour la visualisation et l'analyse de données. Ce bootcamp est structuré en plusieurs modules progressifs, chacun se concentrant sur un aspect spécifique de Streamlit. Voici un aperçu des modules inclus dans cette formation :
 
 ## Table des matières
-0. [0_streamlit_hello_world](#0_streamlit_hello_world)
-1. [1_streamlit_data_upload](#1_streamlit_data_upload)
-2. [2_streamlit_chart](#2_streamlit_chart)
-3. [3_streamlit_hello_analysis](#3_streamlit_hello_analysis)
-4. [4_streamlit_data_science](#4_streamlit_data_science)
-5. [5_streamlit_app_deploy](#5_streamlit_app_deploy)
+0. [streamlit_hello_world](#0_streamlit_hello_world)
+1. [streamlit_data_upload](#1_streamlit_data_upload)
+2. [streamlit_chart](#2_streamlit_chart)
+3. [streamlit_hello_analysis](#3_streamlit_hello_analysis)
+4. [streamlit_data_science](#4_streamlit_data_science)
+5. [streamlit_app_deploy](#5_streamlit_app_deploy)
 
 ## 0_streamlit_hello_world
 **Objectif :** Apprendre les bases de Streamlit en créant une application simple "Hello, World!".
@@ -20,8 +20,10 @@ Bienvenue dans ce bootcamp de formation Streamlit! Ce programme est conçu pour 
 
 ### Installation de Streamlit
 Pour installer Streamlit, ouvrez un terminal et exécutez la commande suivante :
-```sh
+
+```bash
 pip install streamlit
+```
 
 ## 1_streamlit_data_upload
 **Objectif :** Apprendre à télécharger et afficher des fichiers de données dans une application Streamlit.
