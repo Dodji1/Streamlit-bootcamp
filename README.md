@@ -29,7 +29,7 @@ pip install streamlit
 **Objectif :** Apprendre à télécharger et afficher des fichiers de données dans une application Streamlit.
 
 ### Compétences acquises :
-- Lecture et affichage de fichiers (.CSV, .txt, .xlsx, .db, .pdf, .png, .etc)
+- Lecture et affichage de fichiers (.csv, .txt, .xlsx, .db, .pdf, .png, .etc)
 - Téléchargement de fichiers.
 
 ## streamlit_chart
