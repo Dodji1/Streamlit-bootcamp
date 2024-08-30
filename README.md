@@ -3,14 +3,14 @@
 Bienvenue dans ce bootcamp de formation Streamlit! Ce programme est conçu pour vous initier à Streamlit, une bibliothèque Python permettant de créer des applications web interactives pour la visualisation et l'analyse de données. Ce bootcamp est structuré en plusieurs modules progressifs, chacun se concentrant sur un aspect spécifique de Streamlit. Voici un aperçu des modules inclus dans cette formation :
 
 ## Table des matières
-0. [streamlit_hello_world](#0_streamlit_hello_world)
-1. [streamlit_data_upload](#1_streamlit_data_upload)
-2. [streamlit_chart](#2_streamlit_chart)
-3. [streamlit_hello_analysis](#3_streamlit_hello_analysis)
-4. [streamlit_data_science](#4_streamlit_data_science)
-5. [streamlit_app_deploy](#5_streamlit_app_deploy)
+0. [streamlit_hello_world](#streamlit_hello_world)
+1. [streamlit_data_upload](#streamlit_data_upload)
+2. [streamlit_chart](#streamlit_chart)
+3. [streamlit_hello_analysis](#streamlit_hello_analysis)
+4. [streamlit_data_science](#streamlit_data_science)
+5. [streamlit_app_deploy](#streamlit_app_deploy)
 
-## 0_streamlit_hello_world
+## streamlit_hello_world
 **Objectif :** Apprendre les bases de Streamlit en créant une application simple "Hello, World!".
 
 ### Compétences acquises :
@@ -25,35 +25,35 @@ Pour installer Streamlit, ouvrez un terminal et exécutez la commande suivante :
 pip install streamlit
 ```
 
-## 1_streamlit_data_upload
+## streamlit_data_upload
 **Objectif :** Apprendre à télécharger et afficher des fichiers de données dans une application Streamlit.
 
 ### Compétences acquises :
 - Lecture et affichage de fichiers (.CSV, .txt, .xlsx, .db, .pdf, .png, .etc)
 - Téléchargement de fichiers.
 
-## 2_streamlit_chart
+## streamlit_chart
 **Objectif :** Apprendre à créer et afficher des graphiques interactifs avec Streamlit.
 
 ### Compétences acquises :
 - Création de graphiques de base comme les lignes, les barres et les histogrammes.
 - Personnalisation des graphiques.
 
-## 3_streamlit_data_analysis
+## streamlit_data_analysis
 **Objectif :** Apprendre à effectuer une analyse de base des données téléchargées.
 
 ### Compétences acquises :
 - Réalisation d'analyses descriptives.
 - Affichage des statistiques sommaires.
 
-## 4_streamlit_data_science
+## streamlit_data_science
 **Objectif :** Appliquer des techniques de science des données en utilisant Streamlit.
 
 ### Compétences acquises :
 - Implémentation de modèles de machine learning de base.
 - Affichage des résultats des modèles.
 
-## 5_streamlit_app_deployement
+## streamlit_app_deployement
 **Objectif :** Apprendre à déployer une application Streamlit sur une plateforme d'hébergement.
 
 ### Compétences acquises :
