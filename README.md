@@ -29,8 +29,8 @@ pip install streamlit
 **Objectif :** Apprendre à télécharger et afficher des fichiers de données dans une application Streamlit.
 
 ### Compétences acquises :
-- Utilisation du widget de téléchargement de fichiers.
-- Lecture et affichage de fichiers CSV.
+- Lecture et affichage de fichiers (.CSV, .txt, .xlsx, .db, .pdf, .png, .etc)
+- Téléchargement de fichiers.
 
 ## 2_streamlit_chart
 **Objectif :** Apprendre à créer et afficher des graphiques interactifs avec Streamlit.
@@ -39,7 +39,7 @@ pip install streamlit
 - Création de graphiques de base comme les lignes, les barres et les histogrammes.
 - Personnalisation des graphiques.
 
-## 3_streamlit_hello_analysis
+## 3_streamlit_data_analysis
 **Objectif :** Apprendre à effectuer une analyse de base des données téléchargées.
 
 ### Compétences acquises :
@@ -53,7 +53,7 @@ pip install streamlit
 - Implémentation de modèles de machine learning de base.
 - Affichage des résultats des modèles.
 
-## 5_streamlit_app_deploy
+## 5_streamlit_app_deployement
 **Objectif :** Apprendre à déployer une application Streamlit sur une plateforme d'hébergement.
 
 ### Compétences acquises :
